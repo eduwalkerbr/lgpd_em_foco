@@ -1,15 +1,18 @@
 # Web Site LGPD em Foco
 
-Projeto desenvolvido aliado ao Trabalho de Conclusão de Curso.
+Projeto desenvolvido aliado ao Trabalho de Conclusão do Curso Superior em Ciência da Computação pela Universidade Regional do Noroeste Gaúcho (Unijuí).
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 
 ## Tecnologias Utilizadas
 
 [![Logo do Flutter](lib/img/flutter.jpg)](https://flutter.dev/)
 
-* Flutter
-* Dart
-* Java
-* Git
+* MySql
+* Php
+* HTML
+* CSS
+* JavaScript
 
 ## Imagens da Aplicação
 
