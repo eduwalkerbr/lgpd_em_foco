@@ -34,7 +34,6 @@ Seguem imagens que retratam o resultado do desenvolvimento do projeto, represent
   <img alt="home" title="#home" src="./Fotos Site/topico_fixo.png" width="200" height="320" />
   <img alt="home" title="#home" src="./Fotos Site/lista_topicos_abertos.png" width="230" height="320" />
   <img alt="home" title="#home" src="./Fotos Site/comentarios.png" width="260" height="320" />
-  
   <img alt="home" title="#home" src="./Fotos Site/etapas_implantacao.png" width="270" height="320" />
   <img alt="home" title="#home" src="./Fotos Site/links_uteis.png" width="290" height="320" />
 </h1>
