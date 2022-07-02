@@ -9,24 +9,31 @@
 
 ## ✨ Resultado
 Seguem imagens que retratam o resultado do desenvolvimento do projeto, representado pelo Web Site.
-
+<h1 align="center">
+  <img alt="home" title="#home" src="./Fotos Site/home.png" width="200" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/cadastro_edicao_usuario.png" width="260" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/lista_noticias.png" width="270" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/exibicao_noticia.png" width="240" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/setor_servico.png" width="200" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/forum.png" width="270" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/topico_fixo.png" width="230" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/lista_topicos_abertos.png" width="260" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/comentarios.png" width="290" height="350" />
+  
+  <img alt="home" title="#home" src="./Fotos Site/etapas_implantacao.png" width="300" height="350" />
+  <img alt="home" title="#home" src="./Fotos Site/links_uteis.png" width="320" height="350" />
+</h1>
 
 ## 🛠 Tecnologias Utilizadas
 
 [![Logo do Flutter](lib/img/flutter.jpg)](https://flutter.dev/)
 
-* MySql
-* Php
+* [MySql](https://www.mysql.com/)
+* [PHP](https://www.php.net/) 
 * HTML
-* CSS
-* JavaScript
-
-## Imagens da Aplicação
-
-Segue abaixo algumas imagens da aplicação:
-
-![Imagens Aplicação](lib/img/imagem_completa.png)
-
+* [CSS](https://www.w3schools.com/css/)
+* [JavaScript](https://www.javascript.com/)
+* [Laravel](https://laravel.com/)
 
 ## 📁 Acesso ao Projeto
 
