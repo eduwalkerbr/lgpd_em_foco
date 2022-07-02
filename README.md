@@ -25,17 +25,17 @@
 
 Seguem imagens que retratam o resultado do desenvolvimento do projeto, representado pelo Web Site.
 <h1 align="center">
-  <img alt="home" title="#home" src="./Fotos Site/home.png" width="170" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/cadastro_edicao_usuario.png" width="230" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/lista_noticias.png" width="240" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/exibicao_noticia.png" width="210" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/setor_servico.png" width="170" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/forum.png" width="240" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/topico_fixo.png" width="200" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/lista_topicos_abertos.png" width="230" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/comentarios.png" width="260" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/etapas_implantacao.png" width="270" height="320" />
-  <img alt="home" title="#home" src="./Fotos Site/links_uteis.png" width="290" height="320" />
+  <img alt="home" title="#home" src="./Fotos Site/home.png" width="140" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/cadastro_edicao_usuario.png" width="150" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/lista_noticias.png" width="150" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/exibicao_noticia.png" width="150" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/setor_servico.png" width="140" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/forum.png" width="150" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/topico_fixo.png" width="150" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/lista_topicos_abertos.png" width="160" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/comentarios.png" width="160" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/etapas_implantacao.png" width="190" height="220" />
+  <img alt="home" title="#home" src="./Fotos Site/links_uteis.png" width="190" height="220" />
 </h1>
 
 ## 🛠 Tecnologias Utilizadas
