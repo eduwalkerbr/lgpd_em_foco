@@ -7,9 +7,11 @@
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
+## ✨ Resultado
+Seguem imagens que retratam o resultado do desenvolvimento do projeto, representado pelo Web Site.
 
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 [![Logo do Flutter](lib/img/flutter.jpg)](https://flutter.dev/)
 
@@ -26,15 +28,6 @@ Segue abaixo algumas imagens da aplicação:
 ![Imagens Aplicação](lib/img/imagem_completa.png)
 
 
-## Getting Started
+## 📁 Acesso ao Projeto
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O acesso ao código fonte do projeto pode ser realizado no Google Drive, através do [Link](https://drive.google.com/drive/folders/1_rUtRSPO23tSlZjn12oBN7N36Mnt6jvm?usp=sharing), mediante o download do projeto, ou clonando o mesmo via git.
