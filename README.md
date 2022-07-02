@@ -1,4 +1,6 @@
-# Web Site LGPD em Foco
+<h1 align="center">
+  <img alt="home" title="#home" src="./logotipo.png" width="200" height="200" />
+</h1>
 
 ![Badge](https://img.shields.io/static/v1?label=licence&message=MIT&color=green&style=for-the-badge) ![Badge](https://img.shields.io/static/v1?label=PHP&message=language&color=purple&style=for-the-badge&logo=PHP) ![Badge](https://img.shields.io/static/v1?label=laravel&message=framework&color=darkred&style=for-the-badge&logo=LARAVEL) ![Badge](https://img.shields.io/static/v1?label=build&message=passing&color=green&style=for-the-badge)
 
